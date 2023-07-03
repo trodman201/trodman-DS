@@ -8,7 +8,10 @@
 ## DecisionFlowchart.pdf is a file that includes a diagram of branching logic  
 
 ### Filename: Python.png
-##  Python.png is a snippet of a program that compares two numbers, x and y, to determine which one is bigger.
+##  Python.png is a snippet of a program that compares two numbers, x and y, to determine which one is bigger. 
+
+### Filename: MyClass.png
+## MyClass.png is a png of the UML class that I created in lucidchart
 
 ### Filename: Flower.py 
 ## Flower.py is a txt document that has my documetation of my oop code 
