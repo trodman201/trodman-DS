@@ -17,4 +17,7 @@
 ## Flower.py is a txt document that has my documetation of my oop code 
 
 ### Filename: PythonOOP.png 
-## PythonOOP.png is a snippet of the oop code that I documented 
+## PythonOOP.png is a snippet of the oop code that I documented  
+
+### Filename: NetworkDesign.png 
+## NetworkDesign.png is a png of a network diagram between pcs that share a network 
