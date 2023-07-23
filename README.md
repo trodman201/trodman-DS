@@ -21,3 +21,6 @@
 
 ### Filename: NetworkDesign.png 
 ## NetworkDesign.png is a png of a network diagram between pcs that share a network 
+
+### Filename: SQLQuery.png 
+## SQLQuery.png is a png of a query using sql to sort which products have a price over $70 
