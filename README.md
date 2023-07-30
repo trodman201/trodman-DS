@@ -24,3 +24,6 @@
 
 ### Filename: SQLQuery.png 
 ## SQLQuery.png is a png of a query using sql to sort which products have a price over $70 
+
+### Filename: MyHTML.png 
+## MyHTML.png is a png of sample html code used to advertise a pet shelter 
